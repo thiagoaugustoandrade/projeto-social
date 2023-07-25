@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #303030;
+}
+
+main{
+    position: relative;
+    height: 100vh;
+    background-color: rgb(78, 153, 220);
+}
+
+#section#celular{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+

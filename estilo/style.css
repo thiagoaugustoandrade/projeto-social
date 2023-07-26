@@ -44,10 +44,11 @@ iframe#tela{
 }
 
 section#redesSociais img{
-    width: 80px;
+    width: 50px;
     margin: 10px;
-    margin-left: 25px;
-    margin-top: 80px;
+    
+    margin-left: 5%;
+    margin-top: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
 
